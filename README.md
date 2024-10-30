@@ -12,7 +12,7 @@
   "channelId": "チャンネルID"
 }
 ```
-・.env.sampleの`.sample`を消し、中にtokenを入力
+・[.env.sample](https://github.com/VEDA00133912/threadBOT/blob/main/.env.sample)の`.sample`を消し、中にtokenを入力
 ```
 token= BOtのtoken
 ```
@@ -36,7 +36,7 @@ If you want to run it with multiple guilds, you will need to change the content 
   "channelId": "your channelId"
 }
 ```
-・Delete the `.sample` part of the .env.sample and enter the token inside
+・Delete the `.sample` part of the [.env.sample](https://github.com/VEDA00133912/threadBOT/blob/main/.env.sample) and enter the token inside
 ```
 token= BOtのtoken
 ```
